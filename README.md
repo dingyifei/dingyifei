@@ -1,6 +1,6 @@
 # Hi
 
-It's me
+I'm Yifei, a bioengineer/bioinformatician with many 3D printers and random hobbies.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dingyifei&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
